@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "eureka"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"path": "tech4pizza"
+		},
+		{
+			"name": "tech4pedido",
+			"path": "tech4pedido"
+		},
+		{
+			"name": "configserver",
+			"path": "configserver"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
